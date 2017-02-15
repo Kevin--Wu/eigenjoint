@@ -1,0 +1,20 @@
+1	high arm wave
+2	horizontal arm wave
+3	hammer
+4	hand catch
+5	forward punch
+6	high throw
+7	draw x
+8	draw tick
+9	draw circle
+10	hand clap
+11	two hand wave
+12	side-boxing
+13	bend
+14	forward kick
+15	side kick
+16	jogging
+17	tennis swing
+18	tennis serve
+19	golf swing
+20	pickup & throw
